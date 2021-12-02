@@ -19,14 +19,19 @@ My current project
 👯 I’m looking to collaborate on MedTech software
 🤔 I’m looking for help with Data annotation
 💬 Ask me about Everything
-📫 How to reach me: shushukurov@gmail.com
-😄 Pronouns: Shakhzod 3 times :)
+😄 Pronouns:  3 times :)
 ⚡ Fun fact: I am a powerlifting champion 🏋🏻🏆 -->
 Table of contest
+
+
 1. ML portfolio
 List of My projects Inspired by Andrej Karpathy, Justin Johnson, Cs231n, Elon Musk's tweet about PyTorch :) Most projects are implented on low level using Pytorch tensors only as a gpu accelerating data type, only few of them (most complicated ones) utilize some pytorch high level API functions
 
 1.1 KNN for Image Classification
+
+IMG_9880.mp4
+
+
 KNN classifier for CIFAR-10 from scratch with PyTorch. KNN is data driven, image classification algorithm that was popular before Deep Learning came out. So I structured my PyTorch porfolio projects according to timeline of algorithms were developed (Popular) So I have started with KNN
 
 1.2 Linear Classifiers for image classification
