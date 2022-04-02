@@ -18,8 +18,6 @@ My current project
 👯 I’m looking to collaborate on MedTech software
 🤔 I’m looking for help with Data annotation
 💬 Ask me about Everything
-😄 Pronouns:  3 times :)
-⚡ Fun fact: I am a powerlifting champion 🏋🏻🏆 -->
 Table of contest
 
 
